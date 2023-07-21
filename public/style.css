@@ -1,0 +1,20 @@
+ body{
+   background-image: url('/assets/transparent-background-PNG.png');
+   background-size: cover;
+   background-repeat: no-repeat;
+ }
+.center-div{
+    padding-top:10%;
+}
+.btn.btn-success{
+    padding:.4em 2em;
+}
+button{
+    padding-top: 10%;
+}
+form{
+    padding:0 3em;
+}
+#login.title>span{
+    font-size:.8em;
+}  
